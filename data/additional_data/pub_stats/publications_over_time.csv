@@ -1,7 +1,7 @@
-Full_Topic;Short_Topic;Papers;Ratio
-Graphene;Graphene;259162;100%
-Graphene oxide;Graphene oxide;80629;31%
-FTIR research keywords combined with graphene oxide;FTIR + graphene oxide;9759;12%
-"""FTIR""+""surface"" research keywords combined with graphene oxide";FTIR + surface + graphene oxide;4380;5%
-Machine learning;Machine learning;1564;0,60%
-Machine learning research keywords combined with graphene oxide;Machine learning + graphene oxide;207;0,08%
+﻿Full_Topic;Short_Topic;Papers;Ratio
+Graphene;Graphene;226325;100%
+Graphene oxide;Graphene oxide;69598;31%
+FTIR research keywords combined with graphene oxide;Graphene oxide + FTIR;8547;4%
+"""FTIR""+""surface"" research keywords combined with graphene oxide";Graphene oxide + FTIR + Surface;3873;2%
+Machine learning;Machine learning;1695;0,7%
+Machine learning research keywords combined with graphene oxide;Graphene oxide + Machine learning;221;0,1%
