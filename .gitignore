@@ -135,6 +135,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.venv_go_ftir_sfa
+.venv_go_ftir_sfa/
 
 # Spyder project settings
 .spyderproject
